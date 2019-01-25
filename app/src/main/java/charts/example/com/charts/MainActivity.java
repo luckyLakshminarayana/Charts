@@ -74,7 +74,7 @@ public class MainActivity extends AppCompatActivity
         chart.getAxisRight().setEnabled(false);
         chart.getLegend().setEnabled(false);
         chart.animateXY(2000, 2000);
-        //mjnvjhv
+
 
         // don't forget to refresh the drawing
         chart.invalidate();

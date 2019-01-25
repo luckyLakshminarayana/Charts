@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity
         // if disabled, scaling can be done on x- and y-axis separately
         chart.setPinchZoom(false);
 
+        //kbkj
         chart.setDrawGridBackground(false);
         chart.setMaxHighlightDistance(300);
 
@@ -76,6 +77,7 @@ public class MainActivity extends AppCompatActivity
         chart.animateXY(2000, 2000);
 
 
+        //cjzckn
         // don't forget to refresh the drawing
         chart.invalidate();
 
